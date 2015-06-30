@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git file is created but there are no commits, hence a git log command will return a fatal head message.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A staging area helps us club and add files to be committed together. The repository is a snapshot of all the files at a particular commit. 
