@@ -5,3 +5,7 @@ When you want to collaborate with others.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 There are times that the changes are quite small (not logical) in such a case clubbing these changes with the next logical change and then pulling the changes might be a better approach.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+We can compare the changes made by someone else/or previously with the current local changes.
